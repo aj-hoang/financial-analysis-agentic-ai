@@ -1,0 +1,9 @@
+crewai
+fastapi
+uvicorn
+python-dotenv
+requests
+beautifulsoup4
+crewai_tools
+sec-api
+alpha_vantage
